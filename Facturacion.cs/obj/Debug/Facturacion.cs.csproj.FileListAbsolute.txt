@@ -1,0 +1,5 @@
+D:\Facultad\Programacion\Act 1 c#\Facturacion.cs\Facturacion.cs\bin\Debug\Facturacion.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Facturacion.cs\Facturacion.cs\bin\Debug\Facturacion.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Facturacion.cs\Facturacion.cs\bin\Debug\Facturacion.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Facturacion.cs\Facturacion.cs\obj\Debug\Facturacion.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Facturacion.cs\Facturacion.cs\obj\Debug\Facturacion.cs.pdb
